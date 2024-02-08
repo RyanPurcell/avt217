@@ -1,0 +1,15 @@
+body{
+	a {
+		text-decoration: none;
+	}
+	a:link{
+		color: hotpink;
+	}
+	a:visited{
+		color: orangered;
+	}
+	a:hover{
+		color: rebeccapurple;
+	}
+
+}
