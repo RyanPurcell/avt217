@@ -1,0 +1,14 @@
+*{
+	box-sizing: border-box;
+}
+body{
+	margin: 0;
+}
+
+div{
+	width: 100px;
+	height: 100px;
+	background: black;
+	float: left;
+	margin: 5;
+}
