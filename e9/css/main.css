@@ -1,14 +1,16 @@
 *{
 	box-sizing: border-box;
 }
-body{
-	margin: 0;
-}
-
-div{
-	width: 100px;
-	height: 100px;
-	background: black;
+body {margin: 0}
+#p1 {background-color: skyblue;}
+.p1-1{
+	width: 60px;
+	height: 60px;
+	background-color: blue;
 	float: left;
-	margin: 5;
+	margin: -5px;
+	border: 20px dashed; purple;
+	border-radius: 50px;
+	transform: skew(30deg, 20deg);
+
 }
