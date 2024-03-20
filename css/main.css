@@ -1,3 +1,35 @@
+header{
+	width: 75vw;
+	margin: 25px auto;
+	background-color: mediumpurple;
+}
 body{
 	background-color: darkseagreen;
+}
+main{
+	width: 75vw;
+	margin: 25px auto;
+	display: flow-root;
+}
+.col{
+	width: 50%;
+	background-color: lightpink;
+	float: left;
+}
+
+ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+img {
+	max-width: 100%;
+}
+
+@media screen and (max-width: 700px) {
+	.col {
+		width: 100%;
+		margin-bottom: 50px;
+	}
 }
