@@ -1,4 +1,18 @@
 body{
 	margin: 0;
-	background-color: black;
+}
+.purple{
+	background-color: mediumpurple;
+}
+.blue{
+	background-color: midnightblue;
+}
+.purple, .blue{
+	width: 100px;
+	height: 100px;
+	float: left;
+}
+.board{
+	width: 800px;
+	margin: 100px auto;
 }
