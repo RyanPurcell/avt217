@@ -55,4 +55,34 @@ body{
 .blog{
 	width: 1000px;
 	float: left;
+	margin-top: 30px;
+	margin-left: 30px;
+}
+.blogHeader{
+	width: 1000px;
+	float: left;
+	height: 200px;
+	background-color: red;
+	margin-bottom: 100px;
+}
+.image{
+	width: 750px;
+	height: 500px;
+	float: left;
+	margin-right: 15px;
+	margin-bottom: 15px;
+	background-color: red;
+}
+.caption{
+	width: 235px;
+	height: 275px;
+	float: left;
+	background-color: red;
+}
+.title{
+	width: 750px;
+	height: 50px;
+	float: left;
+	background-color: red;
+	margin-bottom: 150px;
 }
